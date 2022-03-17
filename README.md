@@ -1,6 +1,6 @@
 # Methodology for NODDI and Curvature-based Investigation of Superficial White Matter in Young-Onset Alzheimer’s disease
 
-Preprocessing information and code used to generate superficial white matter measures and curvature based segmentations.
+Preprocessing information and code used to generate superficial white matter measures and curvature based segmentations. This work was presented at Alzheimer's Research UK twitter conference in March 2020.
 
 ## MRI Acquisition
 Structural MRI sequences included 3D MPRAGE T1w volumetric MRI and 3D T2w volumetric MRI on a Siemens Trio TIM scanner using a 32 channel head coil. The diffusion MRI (dMRI) sequences was a multi-shell sequence optimised for NODDI (64, 32, and 8 diffusion-weighted directions at b=2000, b=700, and b=300 s/mm<sup>2</sup>; 14 interleaved b=0 s/mm<sup>2</sup>; voxel size 2.5 mm isotropic; TR/TE = 7000/92 ms). Field mappings were acquired to correct for susceptibility artefacts.
